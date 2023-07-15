@@ -1,9 +1,9 @@
-shy_hardware是一个16位计算机
-它包含一个20hz的处理器
-63488字节的内存
-1920字节的可用存储
-剩余128字节的寻址空间用于寄存器等
-
+shy_hardware是一个16位计算机<br>
+它包含一个20hz的处理器<br>
+63488字节的内存<br>
+1920字节的可用存储<br>
+剩余128字节的寻址空间用于寄存器等<br>
+属于[shy_project](https://github.com/Shyliuli/shy_project/)
 下面是地址表：
 
 
